@@ -1,0 +1,23 @@
+{
+  "name": "poo-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnyeloFullstackDev/POO-TYPESCRIPT.git"
+  },
+  "author": "anyelo obregon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnyeloFullstackDev/POO-TYPESCRIPT/issues"
+  },
+  "homepage": "https://github.com/AnyeloFullstackDev/POO-TYPESCRIPT#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
